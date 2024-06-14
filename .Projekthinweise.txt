@@ -1,0 +1,5 @@
+Datensätze einzeln bereinigen und dann erst zusammenführen.
+Wie ersetzt man fehlende oder fehlerhafte Werte?
+
+17. Logistische Funktion
+
